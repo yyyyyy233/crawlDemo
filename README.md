@@ -22,3 +22,5 @@
 3.调用API，爬取每个回答下的前20条评论。</br>
 
 仅供参考，大佬莫喷~
+
+运行此demo依赖于bs4，requests，splinter，biliBV以及其他必要库。
