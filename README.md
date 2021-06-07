@@ -24,3 +24,4 @@
 仅供参考，大佬莫喷~
 
 运行此demo依赖于bs4，requests，splinter，biliBV以及其他必要库。
+运行结果位于include文件夹的bilibili/zhihumls/weibomls压缩文件中。
